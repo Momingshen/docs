@@ -22,3 +22,9 @@ yarn-error.log*
 # Local Node environment
 .local_node
 node.zip
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
